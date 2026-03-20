@@ -20,7 +20,7 @@ body{
 	flex-direction:column;
 	gap:10px;
 }
-#right,#box2{
+#email,#password{
 	border:1px solid #ccc;
 	border-radius:5px;
 	padding:10px;
